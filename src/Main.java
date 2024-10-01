@@ -5,7 +5,7 @@ public class Main {
 
         Vuelo vuelo = new Vuelo("EZS123", aerolinea);
 
-        aerolinea.reservar_asiento("Gleb", 12434, vuelo);
+         aerolinea.reservar_asiento("Gleb", 12434, vuelo);
 
 
     }
